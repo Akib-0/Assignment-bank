@@ -25,7 +25,7 @@ def main():
     kuddos.transection_history()
     
     print(bank)
-    print("git")
+   
 
 if __name__ == '__main__':
     main()
